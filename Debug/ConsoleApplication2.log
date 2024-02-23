@@ -1,0 +1,199 @@
+﻿  ConsoleApplication2.cpp
+d:\коды\новая папка\новая папка\consoleapplication2\view.h(22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\view.h(26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\view.h(30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\view.h(33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(39): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(260): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(290): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(291): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(301): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(309): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(382): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(393): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(411): warning C4305: =: усечение из "double" в "float"
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(412): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(419): warning C4305: =: усечение из "double" в "float"
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(420): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(427): warning C4305: =: усечение из "double" в "float"
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(428): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(435): warning C4305: =: усечение из "double" в "float"
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(436): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(449): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(480): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(480): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(485): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(490): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(496): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(502): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(508): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(509): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(516): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(518): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(523): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(523): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(525): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(526): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(528): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(529): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(530): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(531): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(538): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(539): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(547): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(549): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(555): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(555): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(557): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(558): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(560): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(561): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(562): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(563): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(569): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(570): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(578): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(580): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(585): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(585): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(587): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(588): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(590): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(591): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(592): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(593): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(599): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(600): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(609): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(611): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(615): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(615): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(617): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(618): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(620): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(621): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(622): warning C4244: аргумент: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(623): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(633): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\коды\новая папка\новая папка\consoleapplication2\consoleapplication2.cpp(135): warning C4715: OrbitMob: значение возвращается не при всех путях выполнения
+  ConsoleApplication2.vcxproj -> D:\Коды\Новая папка\Новая папка\ConsoleApplication2\Debug\ConsoleApplication2.exe
